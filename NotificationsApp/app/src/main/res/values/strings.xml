@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Уведомления</string>
+
+    <string name="notification_permission_warning">Для нормальной работы приложения нужно предоставить разрешение на показ уведомлений.</string>
+    <string name="open_settings">Открыть настройки</string>
+
+    <string name="notification_title_label">Заголовок уведомления</string>
+    <string name="notification_message_label">Текст уведомления</string>
+    <string name="notification_ongoing_label">Несмахиваемое уведомление</string>
+
+    <string name="notification_importance_label">Важность: %1$s</string>
+    <string name="importance_min">Минимальная</string>
+    <string name="importance_default">Обычная</string>
+    <string name="importance_high">Высокая</string>
+
+    <string name="send_notification">Отправить уведомление</string>
+    <string name="notification_sent">Уведомление передано системе. ID: %1$d</string>
+    <string name="notifications_disabled">Уведомления или выбранный канал отключены в настройках</string>
+
+    <string name="channel_min_name">Минимальная важность</string>
+    <string name="channel_default_name">Обычная важность</string>
+    <string name="channel_high_name">Высокая важность</string>
+</resources>
