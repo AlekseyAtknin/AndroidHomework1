@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sr</string>
+    <string name="сonsistently">Последовательно</string>
+    <string name="in_parallel">Параллельно</string>
+    <string name="сancellation_of_coroutines">Отмена корутин</string>
+    <string name="count_tasks">Количество задач: %1$d</string>
+    <string name="count_completed_tasks">Выполнено %1$d из %2$d</string>
+</resources>
